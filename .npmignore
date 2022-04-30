@@ -1,0 +1,9 @@
+.vscode
+node_modules
+src
+.eslintrc.js
+.gitignore
+.npmignore
+tsconfig.json
+*.sh
+questions.md
